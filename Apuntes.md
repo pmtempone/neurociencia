@@ -31,6 +31,35 @@ Medición de los pulsos:
 
 Hans Berger: Frecuencias continuas, electroencefalografia (fourier)
 
+### Dificil inferir interraccion entre areas del cerebro
+
+Ver donde se consume energia, por ahi hubo actividad electrica.
+
+## Suministro de energía
+
++ energia más alta cuando están unidas las moleculas de atp
++ diferencia entre hemoglobina oxigenada o no
 
 
+## Hipotesis: flujo sanguineo mido actividad cerebral
+
+## Pesar pensamiento: actividad congnitiva cambia el flujo sanguineo (resonador nuclear en la actualidad):
+
++ protones son pequeños imanes que se alimentan de campo magnetico.
++ Frecuencia de presion
+
+## Introducir un gradiente:
+
+Ahora la frecuencia de resonancia depende de la coordenada z y es posible excitar solo los protones que estén en la rebanada.
+
+
+** Se miden correlaciones entre serie temporal del cerebro**
+
+Preprocesado:
+
++ correccion de movimiento
++ filtrado temporal
++ segmentacion
++ suavizado espacial
++ normalizacion: se distorsionan distintos cerebros para que ocupen el mismo espacio en la representacion
 
