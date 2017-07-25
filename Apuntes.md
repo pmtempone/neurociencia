@@ -53,12 +53,12 @@ Ver donde se consume energia, por ahi hubo actividad electrica.
 Ahora la frecuencia de resonancia depende de la coordenada z y es posible excitar solo los protones que estén en la rebanada.
 
 
-** Se miden correlaciones entre serie temporal del cerebro**
+**Se miden correlaciones entre serie temporal del cerebro**
 
 Preprocesado:
 
-+ correccion de movimiento
-+ filtrado temporal
++ correccion de movimiento: Rigid body/ Alfine transformations / non - linear transformations
++ filtrado temporal: Filtrado temporal (baja frecuencias/altas frecuencias por el aliasing y frecuencias lentas)
 + segmentacion
 + suavizado espacial
 + normalizacion: se distorsionan distintos cerebros para que ocupen el mismo espacio en la representacion
