@@ -63,3 +63,28 @@ Preprocesado:
 + suavizado espacial
 + normalizacion: se distorsionan distintos cerebros para que ocupen el mismo espacio en la representacion
 
+# 25/07 -  clase 02: conectividad funcional
+
+## Correlacion entre zonas del cerebro:
+
+Se correlaciona con la correlacion entre dos señales Rx,y = (x-media_x)*(y-media_y)/(ssd(x)*sd(y))
+
+Se busca correlacion entre voxel semilla y otro voxel.
+
+Hay redes anticorrelacionadas como resultado de una regresión global del estado de todo el cerebro.
+
+## Baja frecuencia respiratoria
+
+Se analiza la señal IMRI para ver las bajas frecuencias.
+
+## Conectividad estructural del cerebro
+
+Correlacion entre funciones y estructuras (scatter plot r2 0.61)
+
++ Surgen "redes de estado de reproso"
+
++ branching ratio < 1 inactivo
++ branching ratio > 1 activo
+
+# 26/07 -  clase 03
+
