@@ -92,3 +92,38 @@ Correlacion entre funciones y estructuras (scatter plot r2 0.61)
 
 + Detección de estados de sueño
 + Elige los puntos de corte en base a simetria entre las tasas de error.
+
+# 27/07 - clase 04
+
+## Selección de features
+
++ muchos mas sujetos que features
+
++ agregar features adicionales a los sujetos (pero agregar puede que empeore)
+
++ Correlacion entre los features
+
++ PCA
+
++ Selección recursiva (foward): Evaluar con AUC cada feature a ver cual mejora. ej: [(1,0,0)(0,1,0)(0,0,1)] y [(1,1,0)(0,1,1)]
+
++ Bacward: al revés.
+
++ Filtro univariado: t-student para diferencia para cada variable respecto a su clase. X% que tiene el nro más grande.
+
+
+## Relevancia de features
+
++ importancia de cada feature
+
++ Interrelaciones
+
+## Normalización
+
++ SVM se escalan para que los ejes sean parecidos
+
++ cross validation muchas veces para validar auc bajos.
+
+## Clasificadores multiclase
+
++ 4 fases del sueño
