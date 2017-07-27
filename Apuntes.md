@@ -88,3 +88,7 @@ Correlacion entre funciones y estructuras (scatter plot r2 0.61)
 
 # 26/07 -  clase 03
 
+## Problema a resolver: 
+
++ Detección de estados de sueño
++ Elige los puntos de corte en base a simetria entre las tasas de error.
